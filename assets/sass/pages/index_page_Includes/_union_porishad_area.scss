@@ -42,6 +42,8 @@
                     margin-bottom: 40px;
                     .description_area {
                         border: $border;
+                        height: 326px;
+                        overflow: hidden;
                         .description_text {
                             border: $border;
                             font-family: $font_bangla;

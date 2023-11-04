@@ -1063,6 +1063,18 @@ html ::-webkit-scrollbar-thumb:hover {
   object-fit: cover;
   transition-duration: 0.4s;
 }
+.edit_union_porishad_card_area .image .overlay_area {
+  position: absolute;
+  bottom: 0px;
+  background-color: rgba(0, 0, 0, 0.6901960784);
+  width: 100%;
+  padding: 10px 10px 8px 10px;
+}
+.edit_union_porishad_card_area .image .overlay_area .item_title .title_area .title_text {
+  font-family: "bangla-font";
+  font-size: 14px;
+  color: #5dabbe;
+}
 
 .inner-page_and_side-ber-area {
   border: 0px solid red;
@@ -1343,8 +1355,8 @@ html ::-webkit-scrollbar-thumb:hover {
   gap: 10px;
 }
 .related_item_area .edit_details_social_work_card {
-  width: 140px;
-  height: 100px;
+  width: 181px;
+  height: 121px;
 }
 .related_item_area .edit_details_social_work_card .overlay-area {
   border: 0px solid red;
@@ -1392,7 +1404,7 @@ html ::-webkit-scrollbar-thumb:hover {
 .related_item_area .edit_details_social_work_card .overlay-area .overlay-area_content .image_title .title_text {
   border: 0px solid red;
   font-family: "bangla-font";
-  font-size: 10px;
+  font-size: 12px;
   color: #5dabbe;
 }
 .related_item_area .edit_details_news_item_card {
@@ -2156,6 +2168,8 @@ html ::-webkit-scrollbar-thumb:hover {
 }
 .union_porishad_area .union_porishad_area_content .union_porishad_left_and_right_area .left_area .union_porishad_text_and_link_area .description_area {
   border: 0px solid red;
+  height: 326px;
+  overflow: hidden;
 }
 .union_porishad_area .union_porishad_area_content .union_porishad_left_and_right_area .left_area .union_porishad_text_and_link_area .description_area .description_text {
   border: 0px solid red;

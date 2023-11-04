@@ -120,6 +120,25 @@
             object-fit: cover;
             transition-duration: 0.4s;
         }
+        // overlay_area start
+        .overlay_area {
+            position: absolute;
+            bottom: 0px;
+            background-color: rgba(0, 0, 0, 0.6901960784);
+            width: 100%;
+            padding: 10px 10px 8px 10px;
+
+            .item_title {
+                .title_area {
+                    .title_text {
+                        font-family: $font_bangla;
+                        font-size: 14px;
+                        color: $brand_color;
+                    }
+                }
+            }
+        }
+        // overlay_area end
     }
 }
 // edit union_porishad card_area end
