@@ -11,8 +11,8 @@
 
     // edit_details_social_work_card area start
     .edit_details_social_work_card {
-        width: 181px;
-        height: 121px;
+        width: 308px;
+        height: 178px;
         // overlay-area start
         .overlay-area {
             border: $border;
@@ -20,7 +20,7 @@
             top: 0px;
             left: 0px;
             height: 100%;
-            padding: 5px;
+            padding: 20px;
             transition-duration: 0.4s;
             .overlay-area_content {
                 background-color: $button_transfarent_black;

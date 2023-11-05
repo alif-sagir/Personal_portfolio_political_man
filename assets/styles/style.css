@@ -1355,8 +1355,8 @@ html ::-webkit-scrollbar-thumb:hover {
   gap: 10px;
 }
 .related_item_area .edit_details_social_work_card {
-  width: 181px;
-  height: 121px;
+  width: 308px;
+  height: 178px;
 }
 .related_item_area .edit_details_social_work_card .overlay-area {
   border: 0px solid red;
@@ -1364,7 +1364,7 @@ html ::-webkit-scrollbar-thumb:hover {
   top: 0px;
   left: 0px;
   height: 100%;
-  padding: 5px;
+  padding: 20px;
   transition-duration: 0.4s;
 }
 .related_item_area .edit_details_social_work_card .overlay-area .overlay-area_content {
